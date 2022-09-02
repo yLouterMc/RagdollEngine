@@ -6,7 +6,6 @@ local tab = win:Tab("Home")
 tab:Label("Press [X] to open/close the script")
 tab:Label("Game: Ragdoll Engine")
 tab:Label("Player: "..game.Players.LocalPlayer.DisplayName.." | (@"..game.Players.LocalPlayer.Name..")")
-Home()
 
 local tab2 = win:Tab("Scripts")
 
