@@ -1555,7 +1555,7 @@ function lib:Window(text, preset, closebind)
 			Button.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 			Button.Size = UDim2.new(0, 363, 0, 42)
 			Button.AutoButtonColor = false
-			Button.Font = Enum.Font.SourceSans
+			Button.Font = Enum.Font.Gotham
 			Button.Text = ""
 			Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 			Button.TextSize = 14.000
@@ -1656,7 +1656,7 @@ function lib:Window(text, preset, closebind)
 			Bind.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 			Bind.Size = UDim2.new(0, 363, 0, 42)
 			Bind.AutoButtonColor = false
-			Bind.Font = Enum.Font.SourceSans
+			Bind.Font = Enum.Font.Gotham
 			Bind.Text = ""
 			Bind.TextColor3 = Color3.fromRGB(0, 0, 0)
 			Bind.TextSize = 14.000
