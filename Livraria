@@ -134,7 +134,7 @@ function lib:Window(text, preset, closebind)
 	Title.BackgroundTransparency = 1.000
 	Title.Position = UDim2.new(0.039, 0,0.05, 0)
 	Title.Size = UDim2.new(0, 200, 0, 23)
-	Title.Font = Enum.Font.GothamMedium
+	Title.Font = Enum.Font.Gotham
 	Title.Text = text
 	Title.TextColor3 = Color3.fromRGB(255 , 85, 0)
 	Title.TextSize = 17.000
@@ -214,7 +214,7 @@ function lib:Window(text, preset, closebind)
 		NotificationHold.BorderSizePixel = 0
 		NotificationHold.Size = UDim2.new(0, 560, 0, 319)
 		NotificationHold.AutoButtonColor = false
-		NotificationHold.Font = Enum.Font.SourceSans
+		NotificationHold.Font = Enum.Font.Gotham
 		NotificationHold.Text = ""
 		NotificationHold.TextColor3 = Color3.fromRGB(0, 0, 0)
 		NotificationHold.TextSize = 14.000
@@ -248,7 +248,7 @@ function lib:Window(text, preset, closebind)
 		OkayBtn.Position = UDim2.new(0.0609756112, 0, 0.720207274, 0)
 		OkayBtn.Size = UDim2.new(0, 144, 0, 42)
 		OkayBtn.AutoButtonColor = false
-		OkayBtn.Font = Enum.Font.SourceSans
+		OkayBtn.Font = Enum.Font.Gotham
 		OkayBtn.Text = ""
 		OkayBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
 		OkayBtn.TextSize = 15.000
@@ -351,7 +351,7 @@ function lib:Window(text, preset, closebind)
 		TabBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 		TabBtn.BackgroundTransparency = 1.000
 		TabBtn.Size = UDim2.new(0, 107, 0, 21)
-		TabBtn.Font = Enum.Font.SourceSans
+		TabBtn.Font = Enum.Font.Gotham
 		TabBtn.Text = ""
 		TabBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
 		TabBtn.TextSize = 14.000
@@ -462,7 +462,7 @@ function lib:Window(text, preset, closebind)
 			Button.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 			Button.Size = UDim2.new(0, 363, 0, 42)
 			Button.AutoButtonColor = false
-			Button.Font = Enum.Font.SourceSans
+			Button.Font = Enum.Font.Gotham
 			Button.Text = ""
 			Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 			Button.TextSize = 14.000
@@ -515,7 +515,7 @@ function lib:Window(text, preset, closebind)
 			Button.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 			Button.Size = UDim2.new(0, 363, 0, 42)
 			Button.AutoButtonColor = false
-			Button.Font = Enum.Font.SourceSans
+			Button.Font = Enum.Font.Gotham
 			Button.Text = ""
 			Button.TextColor3 = Color3.fromRGB(0, 0, 0)
 			Button.TextSize = 14.000
@@ -585,7 +585,7 @@ function lib:Window(text, preset, closebind)
 			Toggle.Position = UDim2.new(0.215625003, 0, 0.446271926, 0)
 			Toggle.Size = UDim2.new(0, 363, 0, 42)
 			Toggle.AutoButtonColor = false
-			Toggle.Font = Enum.Font.SourceSans
+			Toggle.Font = Enum.Font.Gotham
 			Toggle.Text = ""
 			Toggle.TextColor3 = Color3.fromRGB(0, 0, 0)
 			Toggle.TextSize = 14.000
