@@ -778,7 +778,7 @@ function lib:Window(text, preset, closebind)
 			Slider.Position = UDim2.new(-0.48035714, 0, -0.570532918, 0)
 			Slider.Size = UDim2.new(0, 363, 0, 60)
 			Slider.AutoButtonColor = false
-			Slider.Font = Enum.Font.SourceSans
+			Slider.Font = Enum.Font.Gotham
 			Slider.Text = ""
 			Slider.TextColor3 = Color3.fromRGB(0, 0, 0)
 			Slider.TextSize = 14.000
@@ -915,7 +915,7 @@ function lib:Window(text, preset, closebind)
 			DropdownBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 			DropdownBtn.BackgroundTransparency = 1.000
 			DropdownBtn.Size = UDim2.new(0, 363, 0, 42)
-			DropdownBtn.Font = Enum.Font.SourceSans
+			DropdownBtn.Font = Enum.Font.Gotham
 			DropdownBtn.Text = ""
 			DropdownBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
 			DropdownBtn.TextSize = 14.000
@@ -1141,7 +1141,7 @@ function lib:Window(text, preset, closebind)
 			ConfirmBtn.Position = UDim2.new(1.25814295, 0, 1.09037197, 0)
 			ConfirmBtn.Size = UDim2.new(0, 105, 0, 32)
 			ConfirmBtn.AutoButtonColor = false
-			ConfirmBtn.Font = Enum.Font.SourceSans
+			ConfirmBtn.Font = Enum.Font.Gotham
 			ConfirmBtn.Text = ""
 			ConfirmBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
 			ConfirmBtn.TextSize = 14.000
@@ -1166,7 +1166,7 @@ function lib:Window(text, preset, closebind)
 			ColorpickerBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 			ColorpickerBtn.BackgroundTransparency = 1.000
 			ColorpickerBtn.Size = UDim2.new(0, 363, 0, 42)
-			ColorpickerBtn.Font = Enum.Font.SourceSans
+			ColorpickerBtn.Font = Enum.Font.Gotham
 			ColorpickerBtn.Text = ""
 			ColorpickerBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
 			ColorpickerBtn.TextSize = 14.000
@@ -1177,7 +1177,7 @@ function lib:Window(text, preset, closebind)
 			RainbowToggle.Position = UDim2.new(1.26349044, 0, 2.12684202, 0)
 			RainbowToggle.Size = UDim2.new(0, 104, 0, 32)
 			RainbowToggle.AutoButtonColor = false
-			RainbowToggle.Font = Enum.Font.SourceSans
+			RainbowToggle.Font = Enum.Font.Gotham
 			RainbowToggle.Text = ""
 			RainbowToggle.TextColor3 = Color3.fromRGB(0, 0, 0)
 			RainbowToggle.TextSize = 14.000
